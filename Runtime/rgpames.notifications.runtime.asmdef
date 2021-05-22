@@ -1,0 +1,17 @@
+{
+    "name": "notifications",
+    "references": [
+        "GUID:1e8e55397bd004beaba78a667566665f",
+        "GUID:ac145e6b8c6034cdbadc8c6e26aedbcf",
+        "GUID:6e71fa5e3dbd2461fb062c99b41a2b3e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
