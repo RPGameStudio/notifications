@@ -1,6 +1,6 @@
 {
   "name": "com.rpgame.notifications",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "displayName": "RPGame Notifications",
   "description": "Wrapper on unity mobile notifications",
   "unity": "2019.4",
