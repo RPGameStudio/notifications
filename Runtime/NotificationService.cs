@@ -14,6 +14,8 @@ namespace Notifications
 {
     public interface INotificationService
     {
+        Task Initialize();
+
         void ScheduleNotification(NotificationData data);
     }
 
